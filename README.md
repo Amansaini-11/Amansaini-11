@@ -36,7 +36,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">👩‍💻  About Me </h3>
 
 ###
 
