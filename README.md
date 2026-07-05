@@ -44,7 +44,8 @@ When I'm not writing code or debugging, you'll find me:
 
 ### 🤝 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/amansaini11) <!-- Replace with your actual link -->
-- 📧 [Email](mailto:sainiaman1090@example.com) <!-- Replace with your actual email -->
+- 📧 [Email](mailto:sainiaman1090@example.com)
+- 📊 [Twitter](https://x.com/amansaini_11)<!-- Replace with your actual email -->
 
 ---
 
