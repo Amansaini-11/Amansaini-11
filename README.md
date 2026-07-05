@@ -1,52 +1,112 @@
-# Hi there, I'm Aman Kumar Saini and IOS Developer 👋
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+</div>
 
-An aspiring iOS Developer with a strong foundation in Computer Science, currently building elegant mobile experiences. I bridge the gap between technical logic and creative expression, blending structured code with an eye for design and performance. 
+###
 
----
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-### 🚀 What I'm Up To
-- 📱 **Deep Diving:** Mastering Swift, SwiftUI, and modern iOS architecture (MVVM, SwiftData) and Fundamentals.
-- 🛠️ **Building:** A production-ready, minimalist Movie Application tailored for iOS.
-- 🧠 **Core Fundamentals:** Keeping my problem-solving sharp with Java and Data Structures.
+###
 
----
+<br clear="both">
 
-### 🛠️ Tech Stack & Tools
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/amansaini11/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/amansaini_11" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="sainiaman1090@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-**Languages & Frameworks**
-- Swift / Java / Kotlin / Jetpack Compose / XML
-- SwiftUI + Navigation
-- MVVM + Combine debounced search
-- REST API + JSON decoding
-- SwiftData local persistence
-- UIKit 
-- Firebase Auth + Firestore cloud sync
-- Loading states + error handling UI
+###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Amansaini-11.Amansaini-11&left_text=Viwers"  />
+</div>
 
-**Architecture & Practices**
-- MVVM (Model-View-ViewModel)
-- Clean Code & Apple Human Interface Guidelines
+###
 
-**Passion Portfolio**
-- Video Production / Audio Engineering / Music & Lyric Composition / Music / Cinema
+<h1 data-importer="text" align="center">👋 Hey there, It's Aman Kumar Saini</h1>
 
----
+###
 
-### 🎵 Beyond the Code
-When I'm not writing code or debugging, you'll find me:
-- Writing Hindi lyrics and composing soothing background scores.
-- Producing and editing video content.
-- Enjoying the nature
-- Sleeping 
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
----
+###
 
-### 🤝 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/amansaini11) <!-- Replace with your actual link -->
-- 📧 [Email](mailto:sainiaman1090@example.com)
-- 📊 [Twitter](https://x.com/amansaini_11)<!-- Replace with your actual email -->
+<p data-importer="text" align="left">I'm from Jaipur, India<br><br>- 🔭 I’m working as IOS Developer<br>- 📚 I'm currently learning Advanced IOS fundamentals and System Design<br>- ⚡ In my free time I enjoy Music and nature</p>
 
----
+###
 
-*“Simplicity is the ultimate sophistication.” — Apple Design Philosophy*
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=swift" height="50" alt="swift logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="50" alt="c logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="50" alt="jetpackcompose logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="50" alt="xcode logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" alt="androidstudio logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="50" alt="apple logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Amansaini-11/Amansaini-11/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Amansaini-11/Amansaini-11/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Amansaini-11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Amansaini-11/Amansaini-11/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+</div>
+
+###
